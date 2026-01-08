@@ -1,0 +1,6 @@
+Task:-
+For all non-negative integers i< n , print i².
+Code:-
+ n = int(input("Enter the number."))
+ for i in range(n):
+    print(i*i)
